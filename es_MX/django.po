@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: My Django\n"
+"PO-Revision-Date: 2021-06-23 13:25\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: es_MX\n"
+
+msgid "Missing required parameter: country"
+msgstr "Falta el parámetro obligatorio: país"
+
+msgid "Create Anyway"
+msgstr "Crear de todos modos"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "recurly_views.missing_country"
+msgstr "¡País real perdido!"
+
+msgid "recurly_views.missing_country2"
+msgstr "¡País real perdido!"
+
+msgid "Invalid parameter: country"
+msgstr "Falta el parámetro obligatorio: país"
+
+msgid "recurly_views.asdf.asdf"
+msgstr "¡País real perdido!"
+
+msgid "asdf.asdf"
+msgstr "Hola"
+
+msgid "some.text"
+msgstr "algún texto"
+
+msgctxt "some.text"
+msgid "my context"
+msgstr "algo de texto con contexto"
